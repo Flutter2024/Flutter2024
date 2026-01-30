@@ -11,7 +11,7 @@
   
   <!-- Epic Header -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=MOHD+SAFWAN+UDDIN" alt="Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=AHMED+Abdulbaqi+Alabsi" alt="Name" />
   </h1>
 
   <h2>
@@ -148,7 +148,7 @@
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safwannuddin&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=flutter2024&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
 <!-- Connect Section -->
@@ -171,16 +171,10 @@
 
 <!-- Social Links with Hover Effects -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohd-safwan-uddin-299602257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/SafwanUddi19218" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-  </a>
-  <a href="mailto:safwanuddin405@gmail.com">
+  <a href="mailto:yemenflutter@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
   </a>
-  <a href="https://github.com/safwannuddin" target="_blank">
+  <a href="https://github.com/Flutter2024" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
   </a>
 </div>
@@ -188,8 +182,8 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=safwannuddin&style=for-the-badge&color=F85D7F&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/safwannuddin?style=for-the-badge&color=F8D866&labelColor=0D1117" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=flutter2024&style=for-the-badge&color=F85D7F&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/flutter2024?style=for-the-badge&color=F8D866&labelColor=0D1117" alt="Followers" />
 </div>
 
 <!-- Footer Section -->
