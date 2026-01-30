@@ -69,7 +69,7 @@
   </div>
   
   <!-- Most Used Languages Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannuddin&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutter2024&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" height="200"/>
   
   <!-- Frontend Development -->
   <h3>
@@ -137,13 +137,13 @@
 
 <!-- GitHub Stats Cards with Animations -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=safwannuddin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=safwannuddin&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flutter2024&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=flutter2024&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=safwannuddin&custom_title=Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&theme=react-dark" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flutter2024&custom_title=Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&theme=react-dark" />
 </div>
 
 <!-- GitHub Trophies -->
